@@ -1,0 +1,14 @@
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.deps.json
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.json
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.runtimeconfig.dev.json
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csprojAssemblyReference.cache
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.AssemblyInfo.cs
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\appsettings.Debug.json
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\appsettings.Release.json
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\bin\Debug\netcoreapp2.2\ConsoleApp.pdb
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.dll
+C:\Users\poychang\Documents\Code\Demo\ConsoleApp\ConsoleApp\obj\Debug\netcoreapp2.2\ConsoleApp.pdb
